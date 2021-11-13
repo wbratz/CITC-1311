@@ -1,0 +1,7 @@
+11/12/2021 9:19:15 PM - SafeOpenedEvent - *** WARNING! SAFE: MySafe OPEN ATTEMPT WITH INCORRECT ACCESS CODE: incorrectCode***
+11/12/2021 9:19:15 PM - SafeOpenedEvent - Safe: MySafe Opened using safeCode access code
+11/12/2021 9:19:15 PM - SafeOpenedEvent - Safe: MyOtherSafe Opened using otherSafeCode access code
+11/12/2021 9:19:15 PM - ItemAddedEvent - $10 bill was added to the safe.
+11/12/2021 9:19:15 PM - ItemAddedEvent - $2 bill was added to the safe.
+11/12/2021 9:19:15 PM - ItemAddedEvent - Chicken wings was added to the safe.
+11/12/2021 9:19:15 PM - ItemRemovedEvent - Chicken wings was removed from the safe.
